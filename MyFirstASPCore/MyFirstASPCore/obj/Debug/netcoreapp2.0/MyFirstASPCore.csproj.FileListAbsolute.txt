@@ -1,0 +1,11 @@
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\bin\Debug\netcoreapp2.0\MyFirstASPCore.deps.json
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\bin\Debug\netcoreapp2.0\MyFirstASPCore.runtimeconfig.json
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\bin\Debug\netcoreapp2.0\MyFirstASPCore.runtimeconfig.dev.json
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\bin\Debug\netcoreapp2.0\MyFirstASPCore.dll
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\bin\Debug\netcoreapp2.0\MyFirstASPCore.pdb
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\obj\Debug\netcoreapp2.0\MyFirstASPCore.csprojResolveAssemblyReference.cache
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\obj\Debug\netcoreapp2.0\MyFirstASPCore.csproj.CoreCompileInputs.cache
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\obj\Debug\netcoreapp2.0\MyFirstASPCore.AssemblyInfoInputs.cache
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\obj\Debug\netcoreapp2.0\MyFirstASPCore.AssemblyInfo.cs
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\obj\Debug\netcoreapp2.0\MyFirstASPCore.dll
+C:\Work\CSharp\MyFirstASPCore\MyFirstASPCore\obj\Debug\netcoreapp2.0\MyFirstASPCore.pdb
